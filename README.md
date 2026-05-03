@@ -15,7 +15,7 @@ This software is developed with Python 3.X, Python 3.X is required as runtime en
 ```shell
 git clone https://github.com/amrit-debug/HyLnc
 cd HyLnc
-gunzip HyLnc.zip
+unzip HyLnc.zip
 cd HyLnc
 # virtual environment are recommended
 python3 -m venv "/path/to/venv" (or conda environment)
